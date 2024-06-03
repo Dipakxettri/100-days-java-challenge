@@ -1,6 +1,6 @@
 # Day 3 of Java Programming 🔥👨🏻‍💻
 
-Hello , I am Deepak Ghimire , Day 3 of my Java journey brings insights into fundamental Java components: documentation, package statements, interfaces, class definitions, and the pivotal static void main method. Additionally, I delved into variable rules and explored various data types. Stay tuned for more Java adventures!
+Hello👋, I am Deepak Ghimire , Day 3 of my Java journey brings insights into fundamental Java components: documentation, package statements, interfaces, class definitions, and the pivotal static void main method. Additionally, I delved into variable rules and explored various data types. Stay tuned for more Java adventures!
 
 ## Today's Learnings:
 
