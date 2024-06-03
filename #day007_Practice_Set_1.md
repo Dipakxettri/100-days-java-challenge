@@ -1,4 +1,4 @@
-# Day 7 :  Practice Exercises
+# Day 7 :  Practice Set 1 Exercises
 
 ## Question 1 : Sum of 2 numbers
 Simple program that do sum of given numbers
