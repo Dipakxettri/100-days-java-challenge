@@ -64,6 +64,10 @@ The `Scanner` class is part of the `java.util` package and is widely used for ge
     System.out.print("Enter your salary: ");
     double salary = scanner.nextDouble();
 
+    // Reading a char input
+    System.out.print("Enter your gender (M/F): ");
+    char gender = scanner.next().charAt(0);
+
     // Close the scanner
     scanner.close();
     ```
